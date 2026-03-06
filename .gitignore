@@ -1,0 +1,15 @@
+# Ignore the hidden VS Code settings folder
+.vscode/
+
+# Ignore all compiled executable files (The ones that run on your laptop)
+*.exe
+*.out
+*.o
+
+# Ignore local input/output test files
+input.txt
+output.txt
+
+# Ignore OS-specific junk
+Thumbs.db
+.DS_Store
